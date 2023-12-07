@@ -32,7 +32,7 @@ bin\windows\kafka-console-producer.bat --topic user-topic --bootstrap-server loc
 5.Consuming message
 bin\windows\kafka-console-consumer.bat --topic user-topic --from-beginning --bootstrap-server localhost:9092
 
-Here we can create more than one consumer.
+Note: we can create more than one consumer.
 
 ---------------------------------------------------
 
