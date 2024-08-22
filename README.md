@@ -4,7 +4,7 @@ Apache Kafka:
  
 A)Introduction :
 1. Apache Kafka is an open-source distributed event streaming platform used for building real-time data pipelines and streaming applications. 
-2. It is concept where we have to craete new topic and producer will produce that topic and consumer can consume that topic. We can craete more than one consumer. 
+2. It is concept where we have to create new topic and producer will produce that topic and consumer can consume that topic. We can craete more than one consumer. 
 3.In simply word Apche kafka is used to communication used to build real time transfer information. It is distributed event straming platform.
 
 
