@@ -42,7 +42,7 @@ We did this in cmd. Now we will impliment in spring boot.
 Implimenation:
 A.Delevry boy:
 1. Create one microservice 
-2. Add Dependency as Spring web, Spring for Apache kafka
+2. Add Dependency as Spring web, Spring for Apache kafka.
 This service will get used to produce location update
 
 
