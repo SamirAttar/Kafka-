@@ -8,7 +8,7 @@ A)Introduction :
 3.In simply word Apche kafka is used to communication used to build real time transfer information. It is distributed event straming platform.
 
 
-B)Installation if Apache kafka :
+B)Installation of Apache kafka :
 
 1. Download kafka zip file official website. File will get download in tgz formate in order to extract file open cmd in file path and put command :- tar -xvzf kafka_2.12 2.4.1.tgz (make sure to change version 2.4.1 according to file).
 2. Extract file.
